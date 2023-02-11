@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hola compañeros!!
 
-<!--
-**VaneMG/VaneMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Nombre: Arely Vanessa Millán Guízar
+* No. Control: 20210599
+* Carrera: Ingeniería en sistemas computacionales
+* Semestre: 7
+* Materia: Sistemas programables
+* Me gusta escuchar música, ver películas y series, redes sociales, etc.
 
-Here are some ideas to get you started:
+### HORARIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| LUNES | MARTES | MIÉRCOLES | JUEVES | VIERNES |  
+|:---:|:---:|:---:|:---:|:---:|
+| TALLER DE INVESTIGACIÓN I | TALLER DE INVESTIGACIÓN I | TALLER DE INVESTIGACIÓN I | TALLER DE INVESTIGACIÓN I |  | 
+| PROGRAMACIÓN LÓGICA  Y FUNCIONAL | PROGRAMACIÓN LÓGICA Y FUNCIONAL | PROGRAMACIÓN LÓGICA Y FUNCIONAL | PROGRAMACIÓN LÓGICA Y FUNCIONAL | GESTIÓN DE PROYECTOS DE SOFTWARE |  
+| GESTIÓN DE PROYECTOS DE SOFTWARE | GESTIÓN DE PROYECTOS DE SOFTWARE | GESTIÓN DE PROYECTOS DE SOFTWARE | GESTIÓN DE PROYECTOS DE SOFTWARE | GESTIÓN DE PROYECTOS DE SOFTWARE |  
+| SISTEMAS PROGRAMABLES | SISTEMAS PROGRAMABLES | SISTEMAS PROGRAMABLES | SISTEMAS PROGRAMABLES |  |  
+| LENGUAJES Y AUTÓMATAS II | LENGUAJES Y AUTÓMATAS II | LENGUAJES Y AUTÓMATAS II | LENGUAJES Y AUTÓMATAS II | LENGUAJES Y AUTÓMATAS II | 
+| FORMACIÓN PROFESIONAL | FORMACIÓN PROFESIONAL | FORMACIÓN PROFESIONAL | FORMACIÓN PROFESIONAL | FORMACIÓN PROFESIONAL | 
+
+### Codigo Fuente:
+```
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+  class Program 
+  {
+     static void Main(string[] args)
+        {
+          Console.WriteLine("Hola Mundo!!")
+        }
+  }
+
+}
+```
+
+
