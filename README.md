@@ -1,4 +1,8 @@
-### Hola compañeros!!
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5643988.png" width="237" height="95" alt="VaneMG" /></a>
+
+# Hola compañeros!!
+
+### Sistemas Programables - Rene Solis Reyes
 
 * Nombre: Arely Vanessa Millán Guízar
 * No. Control: 20210599
@@ -19,7 +23,7 @@
 | FORMACIÓN PROFESIONAL | FORMACIÓN PROFESIONAL | FORMACIÓN PROFESIONAL | FORMACIÓN PROFESIONAL | FORMACIÓN PROFESIONAL | 
 
 ### Codigo Fuente:
-```
+```Ruby
 using System;
 using System.Collections.Generic;
 using System.Linq;
