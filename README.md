@@ -1,4 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5643988.png" width="237" height="95" alt="VaneMG" /></a>
+![](/imagenes/Descargas/logo.png) 
 
 # Hola compañeros!!
 
