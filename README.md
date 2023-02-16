@@ -7,7 +7,7 @@
 * Materia: Sistemas programables
 * Me gusta escuchar música, ver películas y series, redes sociales, etc.
 
-### HORAR
+### HORARIO
 
 | LUNES | MARTES | MIÉRCOLES | JUEVES | VIERNES |  
 |:---:|:---:|:---:|:---:|:---:|
