@@ -2,13 +2,13 @@
 
 # Hola compañeros!!
 
-### Sistemas Programables - Rene Solis Reyes
+### Patrones de Diseño - Rene Solis Reyes
 
 * Nombre: Arely Vanessa Millán Guízar
 * No. Control: 20210599
 * Carrera: Ingeniería en sistemas computacionales
-* Semestre: 7
-* Materia: Sistemas programables
+* Semestre: 9
+* Materia: Patrones de Diseño
 * Me gusta escuchar música, ver películas y series, redes sociales, etc.
 
 ### HORARIO
